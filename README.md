@@ -21,7 +21,7 @@ Analyzed improved product roadmap, key performance indicators & competitive benc
 
 AA, Orange Coast College • Irvine, CA • (+2Yr) // Bachelor of Information Technologies, UCLA • Los Angeles, CA • 2000 (+1Yr dropout)
 
-#WEB3.js #Next #React {#web + #native} #Node/Express #TS #JS #HTML #CSS #JSON #Redis #Vue.js #GraphQL #Socket.io
+#WEB3.js #Next #React {#web + #native} #Node/Express #TS #JS #HTML #CSS #JSON #Redis #GraphQL #Socket.io
 
 "Seeking a role as a Dev Team Manager."
 
