@@ -9,7 +9,7 @@ oalabaz/oalabaz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Full Stack Developer with 11+ years of experience in all aspects of software development, from design to deployment.
+Full Stack Developer with 29 years of experience in all aspects of software development, from design to deployment.
 Expertise in front-end & back-end development for web & mobile applications.
 Proven understanding of clean code, full-stack development & testing.
 Passionate about creating high-quality, user-friendly applications that are scalable & secure.
