@@ -1,29 +1,104 @@
-- 👋 Hi, I’m @oalabaz
-- 👀 I’m interested in App Development & Design
-- 🌱 I’m currently learning Web 3.0 Solidity
-- 💞️ I’m looking to collaborate on OpenSourece web 3.0 projects
-- 📫 How to reach me oalabaz@gmail.com
+# 👋 Hey, I'm Orkun (oalabaz)
 
-<!---
-oalabaz/oalabaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Full-Stack Systems Builder  
+⚙️ I design and build real-world software systems — from architecture to deployment.
 
-Full Stack Developer with 29 years of experience in all aspects of software development, from design to deployment.
-Expertise in front-end & back-end development for web & mobile applications.
-Proven understanding of clean code, full-stack development & testing.
-Passionate about creating high-quality, user-friendly applications that are scalable & secure.
+🌍 Istanbul, Türkiye  
+🌐 https://orqon.com  
+📫 oalabaz@gmail.com  
 
-‘Mostly’ Full Stack Developer / Team Manager / Agile Prototyping
-Developed & maintained complex web applications with responsive, SEO-optimized,  user-friendly front-end & back-end features.
-Designed, developed & maintained a large-scale web application using Node.js, Express & React.
-Analyzed improved product roadmap, key performance indicators & competitive benchmarks through the creation of an enterprise-ready CRM platform.
+---
 
-AA, Orange Coast College • Irvine, CA • (+2Yr) // Bachelor of Information Technologies, UCLA • Los Angeles, CA • 2000 (+1Yr dropout)
+## 🚀 What I Do
 
-#JS #WEB3.js #Next #React {#web + #native} #Node/Express #JSX #HTML #CSS #JSON #Redis #Socket.io
+I build modern **web platforms, SaaS tools and experimental systems**.
 
-"Seeking a role as a Dev Team Manager."
+Things I enjoy working on:
 
-V
-0x
+⚡ high-performance web apps  
+🧩 modular software architecture  
+📦 SaaS platforms  
+🔌 real-time systems  
+🌐 decentralized tech experiments  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+⚛️ React  
+⚡ Vite  
+🧱 Mantine  
+🪐 Three.js  
+📱 Responsive UI  
+
+### Backend
+🟢 Node.js  
+🚏 Express  
+🔗 REST APIs  
+
+### Data
+🍃 MongoDB  
+🧬 Mongoose  
+
+### Infrastructure
+☁️ Cloudflare  
+🚀 Heroku  
+🧰 SiteGround  
+
+---
+
+## 🧪 Projects
+
+### 🚚 Pedallo
+Logistics platform connecting restaurants and delivery drivers.
+
+Stack  
+React • Node • Express • MongoDB • Socket.io
+
+---
+
+### 🧠 Orqon OS
+Experimental modular operating system for developers and builders.
+
+Features
+
+✨ multi-app architecture  
+⚡ performance optimized  
+🤖 AI assisted workflows  
+
+---
+
+### 📊 TrustMap
+Data-driven trust scoring system for businesses.
+
+---
+
+## 🔭 Interests
+
+🧠 system architecture  
+🤖 AI assisted software  
+🌐 decentralized networks  
+⚡ web performance engineering  
+
+---
+
+## 🤝 Open Source
+
+Happy to collaborate on projects related to:
+
+🛠 developer tools  
+⚡ SaaS infrastructure  
+🌐 Web3 experiments  
+🤖 AI powered systems  
+
+---
+
+## 📫 Reach me
+
+📧 oalabaz@gmail.com  
+🌐 https://orqon.com  
+
+---
+
+⚡ *“Build systems that scale — not just code that runs.”*
