@@ -12,7 +12,6 @@ I design and build real-world software systems — from architecture to deployme
 
 🚀 Systems in Production
 
-
 Pedallo.com
 Real-time logistics infrastructure for restaurants
 → dispatch, missions, driver coordination
