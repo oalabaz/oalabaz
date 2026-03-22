@@ -1,15 +1,13 @@
-🧠 Mehmet Orkun Alabaz (oalabaz)
+🧠 Mehmet Orkun Alabaz (oalabaz) Miami,Istanbul
 Full-Stack Systems Builder
 
 “I build systems that operate today — and prototypes of the systems that will replace them.”
 
 I design and build real-world software systems — from architecture to deployment — focused on performance, clarity, and operational impact.
 
-🌍 Istanbul, Türkiye
+
 🌐 https://orqon.com
-
 📫 oalabaz@gmail.com
-
 🚀 Systems in Production
 
 Pedallo.com
