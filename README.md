@@ -1,33 +1,58 @@
-👋 Mehmet Orkun Alabaz (oalabaz)
-
+🧠 Mehmet Orkun Alabaz (oalabaz)
 Full-Stack Systems Builder
 
-I design and build production-grade software systems — from architecture to deployment — focused on performance, clarity, and real-world outcomes.
+I design and build real-world software systems — from architecture to deployment — focused on performance, clarity, and operational impact.
 
-🌍 Miami, USA
+🌍 Istanbul, Türkiye
 🌐 https://orqon.com
 
 📫 oalabaz@gmail.com
 
-🚀 Current Platforms
-https://pedallo.com
- — logistics & delivery infrastructure
-https://picnicpay.ch
- — restaurant payment systems
-https://orqon.com
- — personal ecosystem & Orqon OS
-https://theumamidust.com
- — product & brand system
-⚡ What I Build
-High-performance web applications
-Modular SaaS platforms
-Real-time systems (WebSockets, event-driven flows)
-AI-assisted operational tools
-Experimental decentralized systems
-🧠 Core Focus
+🚀 Systems in Production
 
-I specialize in building systems that reduce operational friction and protect revenue — not just interfaces.
+Pedallo.com
+Real-time logistics infrastructure for restaurants
+→ dispatch, missions, driver coordination
 
+
+PicnicPay.ch
+Payment system for restaurant operations
+→ seamless checkout + workflow integration
+
+Orqon OS
+Modular operating system for builders
+→ deals, invoices, memory, and decision tracking
+
+🧠 Systems in Development
+
+TrustMap
+Trust scoring layer for businesses
+→ visibility into reputation, risk, and reliability
+
+Observer Consensus
+Decentralized decision layer for autonomous systems
+→ multi-agent validation and consensus logic
+
+🔭 Vision Systems
+
+STEN-OS
+Thermodynamic energy routing network
+→ software layer for optimizing global heat energy flow
+
+Harmoniius
+Biofeedback-driven resonance system
+→ aligning human state with environmental signals
+
+Cognitive OS Layer
+Externalized memory + decision engine
+→ replacing memory-based management with system-based execution
+
+⚙️ What I Do
+Build production-grade SaaS platforms
+Design modular system architectures
+Develop real-time systems (WebSockets, event-driven flows)
+Optimize performance across the stack
+Transform complex workflows into structured systems
 🛠 Tech Stack
 
 Frontend
@@ -42,35 +67,22 @@ MongoDB • Mongoose
 Infrastructure
 Cloudflare • Heroku • SiteGround
 
-🧪 Selected Work
+🧬 Approach
 
-Pedallo
-Logistics platform connecting restaurants and delivery drivers
-→ Real-time dispatch, mission tracking, payment flows
+I don’t build tools.
+I build systems that reduce cognitive load, prevent revenue leaks, and operate continuously in the background.
 
-Orqon OS
-Modular operating system for builders
-→ Multi-app architecture, AI workflows, revenue tracking
-
-TrustMap
-Business trust scoring system
-→ Data-driven reputation and risk visibility
-
-🔭 Interests
-
-System architecture • AI-assisted software • decentralized networks • performance engineering
-
-🤝 Open to Collaborate On
+🤝 Open to Collaborate
 Developer tools
 SaaS infrastructure
 AI-powered systems
-Web3 / decentralized experiments
-📫 Contact
-
-📧 oalabaz@gmail.com
-
-🌐 https://orqon.com
-
+Decentralized / Web3 experiments
 ⚡ Principle
 
 Build systems that scale — not just code that runs.
+
+💡 Optional (If You Want Extra Edge)
+
+You can add this line right under your title if you want stronger positioning:
+
+“I build systems that operate today — and prototypes of the systems that will replace them.”
