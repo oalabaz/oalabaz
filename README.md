@@ -1,111 +1,76 @@
-# 👋 Hey, I'm Orkun (oalabaz)
+👋 Mehmet Orkun Alabaz (oalabaz)
 
-🧠 Full-Stack Systems Builder  
-⚙️ I design and build real-world software systems — from architecture to deployment.
+Full-Stack Systems Builder
 
-🌍 Istanbul, Türkiye  
-🌐 https://orqon.com  
-📫 oalabaz@gmail.com  
+I design and build production-grade software systems — from architecture to deployment — focused on performance, clarity, and real-world outcomes.
 
-Current SAAS
+🌍 Istanbul, Türkiye
+🌐 https://orqon.com
 
+📫 oalabaz@gmail.com
+
+🚀 Current Platforms
 https://pedallo.com
-https://picnicpay.ch 
+ — logistics & delivery infrastructure
+https://picnicpay.ch
+ — restaurant payment systems
 https://orqon.com
-https://theumamidust.com/
+ — personal ecosystem & Orqon OS
+https://theumamidust.com
+ — product & brand system
+⚡ What I Build
+High-performance web applications
+Modular SaaS platforms
+Real-time systems (WebSockets, event-driven flows)
+AI-assisted operational tools
+Experimental decentralized systems
+🧠 Core Focus
 
----
+I specialize in building systems that reduce operational friction and protect revenue — not just interfaces.
 
-## 🚀 What I Do
+🛠 Tech Stack
 
-I build modern **web platforms, SaaS tools and experimental systems**.
+Frontend
+React • Vite • Mantine • Three.js
 
-Things I enjoy working on:
+Backend
+Node.js • Express • REST APIs • Socket.io
 
-⚡ high-performance web apps  
-🧩 modular software architecture  
-📦 SaaS platforms  
-🔌 real-time systems  
-🌐 decentralized tech experiments  
+Data
+MongoDB • Mongoose
 
----
+Infrastructure
+Cloudflare • Heroku • SiteGround
 
-## 🛠 Tech Stack
+🧪 Selected Work
 
-### Frontend
-⚛️ React  
-⚡ Vite  
-🧱 Mantine  
-🪐 Three.js  
-📱 Responsive UI  
+Pedallo
+Logistics platform connecting restaurants and delivery drivers
+→ Real-time dispatch, mission tracking, payment flows
 
-### Backend
-🟢 Node.js  
-🚏 Express  
-🔗 REST APIs  
+Orqon OS
+Modular operating system for builders
+→ Multi-app architecture, AI workflows, revenue tracking
 
-### Data
-🍃 MongoDB  
-🧬 Mongoose  
+TrustMap
+Business trust scoring system
+→ Data-driven reputation and risk visibility
 
-### Infrastructure
-☁️ Cloudflare  
-🚀 Heroku  
-🧰 SiteGround  
+🔭 Interests
 
----
+System architecture • AI-assisted software • decentralized networks • performance engineering
 
-## 🧪 Projects
+🤝 Open to Collaborate On
+Developer tools
+SaaS infrastructure
+AI-powered systems
+Web3 / decentralized experiments
+📫 Contact
 
-### 🚚 Pedallo
-Logistics platform connecting restaurants and delivery drivers.
+📧 oalabaz@gmail.com
 
-Stack  
-React • Node • Express • MongoDB • Socket.io
+🌐 https://orqon.com
 
----
+⚡ Principle
 
-### 🧠 Orqon OS
-Experimental modular operating system for developers and builders.
-
-Features
-
-✨ multi-app architecture  
-⚡ performance optimized  
-🤖 AI assisted workflows  
-
----
-
-### 📊 TrustMap
-Data-driven trust scoring system for businesses.
-
----
-
-## 🔭 Interests
-
-🧠 system architecture  
-🤖 AI assisted software  
-🌐 decentralized networks  
-⚡ web performance engineering  
-
----
-
-## 🤝 Open Source
-
-Happy to collaborate on projects related to:
-
-🛠 developer tools  
-⚡ SaaS infrastructure  
-🌐 Web3 experiments  
-🤖 AI powered systems  
-
----
-
-## 📫 Reach me
-
-📧 oalabaz@gmail.com  
-🌐 https://orqon.com  
-
----
-
-⚡ *“Build systems that scale — not just code that runs.”*
+Build systems that scale — not just code that runs.
