@@ -4,7 +4,7 @@ Full-Stack Systems Builder
 
 I design and build production-grade software systems — from architecture to deployment — focused on performance, clarity, and real-world outcomes.
 
-🌍 Istanbul, Türkiye
+🌍 Miami, USA
 🌐 https://orqon.com
 
 📫 oalabaz@gmail.com
