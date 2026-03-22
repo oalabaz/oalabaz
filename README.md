@@ -1,21 +1,23 @@
-🧠 Mehmet Orkun Alabaz (oalabaz) Miami,Istanbul
+🧠 Mehmet Orkun Alabaz (oalabaz)
+
 Full-Stack Systems Builder
 
-“I build systems that operate today — and prototypes of the systems that will replace them.”
+I build systems that operate today — and prototypes of the systems that will replace them.
 
-I design and build real-world software systems — from architecture to deployment — focused on performance, clarity, and operational impact.
-
-
+🌍 Miami / Istanbul
 🌐 https://orqon.com
+
 📫 oalabaz@gmail.com
+
 🚀 Systems in Production
 
-Pedallo.com
+Pedallo
+
 Real-time logistics infrastructure for restaurants
 → dispatch, missions, driver coordination
 
+PicnicPay
 
-PicnicPay.ch
 Payment system for restaurant operations
 → seamless checkout + workflow integration
 
@@ -80,5 +82,3 @@ Decentralized / Web3 experiments
 ⚡ Principle
 
 Build systems that scale — not just code that runs.
-
-“I build systems that operate today — and prototypes of the systems that will replace them.”
