@@ -1,6 +1,8 @@
 🧠 Mehmet Orkun Alabaz (oalabaz)
 Full-Stack Systems Builder
 
+“I build systems that operate today — and prototypes of the systems that will replace them.”
+
 I design and build real-world software systems — from architecture to deployment — focused on performance, clarity, and operational impact.
 
 🌍 Istanbul, Türkiye
@@ -9,6 +11,7 @@ I design and build real-world software systems — from architecture to deployme
 📫 oalabaz@gmail.com
 
 🚀 Systems in Production
+
 
 Pedallo.com
 Real-time logistics infrastructure for restaurants
@@ -80,9 +83,5 @@ Decentralized / Web3 experiments
 ⚡ Principle
 
 Build systems that scale — not just code that runs.
-
-💡 Optional (If You Want Extra Edge)
-
-You can add this line right under your title if you want stronger positioning:
 
 “I build systems that operate today — and prototypes of the systems that will replace them.”
